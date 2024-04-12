@@ -43,7 +43,7 @@ layout = {
 }
 
 page = """
-# Basics - Multiple axis update hehehe
+# Basics - Multiple axis update git then rerun deployment
 
 Shared axis:
 <|{data}|chart|x=x|y[1]=y1|y[2]=y2|height=300px|>
