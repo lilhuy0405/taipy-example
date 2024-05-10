@@ -43,7 +43,7 @@ layout = {
 }
 
 page = """
-# taipy example from lilhuy  repoo
+# taipy example update now
 
 Shared axis:
 <|{data}|chart|x=x|y[1]=y1|y[2]=y2|height=300px|>
